@@ -8,6 +8,22 @@ assignees: ''
 
 ---
 
-<p>As a&hellip; [who is the user?]</p>
-<p>I need/want/expect to&hellip; [what does the user want to do?]</p>
-<p>So that&hellip; [why does the user want to do this?]</p>
+<!--
+
+  Your user stories should include enough information for your product manager to decide how important the story is. They should always include:
+
+the person using the service (the actor)
+what the user needs the service for (the narrative)
+why the user needs it (the goal)
+
+-->
+
+## As a… [who is the user?]
+
+## I need/want/expect to… [what does the user want to do?]
+
+## So that… [why does the user want to do this?]
+
+## Acceptance criteria
+
+- [ ] Thing to do
